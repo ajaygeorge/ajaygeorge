@@ -1,4 +1,4 @@
-## 👋 Hi I'm Ajay George @ajaygeorge
+## 👋 Hi, I'm Ajay George @ajaygeorge
 
 Hi there, welcome to my github.
 
